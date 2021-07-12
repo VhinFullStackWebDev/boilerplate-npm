@@ -2,7 +2,7 @@
 	"name": "fcc-learn-npm-package-json",
 	"author": "vhinfullstackdev",
 	"description": "A project that does something awesome",
-	"keywords": [ "coding", "education", "api" ],
+	"keywords": [ "freecodecamp", "education", "api" ],
 	"dependencies": {
 		"express": "^4.14.0"
 	},
