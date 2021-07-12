@@ -7,7 +7,7 @@
 	"version": "1.0",
 	"dependencies": {
 		"package-name": "moment",
-		"package": "MAJOR.MINOR.PATCH"
+		"package": "MAJOR.MINOR.PATCH",
 		"express": "^4.14.0",
 		"moment": "2.14.0"
 	},
