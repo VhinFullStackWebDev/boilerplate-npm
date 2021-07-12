@@ -3,6 +3,7 @@
 	"author": "vhinfullstackdev",
 	"description": "A project that does something awesome",
 	"keywords": [ "freecodecamp", "education", "api" ],
+	"license": "MIT",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
